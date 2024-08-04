@@ -1,0 +1,21 @@
+.bg_grey{
+    background-color: rgb(185, 185, 185);
+}
+
+.clr_green{
+    color: rgb(34, 61, 34);
+}
+
+.clr_blue{
+    color: aqua;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(34, 61, 34);
+    cursor:none;
+}
